@@ -22,9 +22,9 @@ Hammad Rashid
   1. Java
   2. Struts2
   3. H2 Database
+  4. Maven
 
 ## Integrated Development Environment
-  1. Intellij Idea
-  2. Eclipse
-  3. Spring Tool Suite 4
+  1. Eclipse
+
 
