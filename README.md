@@ -27,4 +27,6 @@ Hammad Rashid
 ## Integrated Development Environment
   1. Eclipse
 
+There are some issues still with the application and some of the things are still left such as OAuth, security and a few other security related issues are yet to be resolved.
+
 
